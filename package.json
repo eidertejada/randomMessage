@@ -1,0 +1,20 @@
+{
+  "name": "eider-random",
+  "version": "1.0.0",
+  "description": "random-mens Contributing If someone wants to add or improve something, I invite you to collaborate directly in this repository: random-mens",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Eider Tejada",
+  "license": "ISC",
+  "bin": {
+    "random-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
